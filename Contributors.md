@@ -7550,3 +7550,4 @@ add-pranav
 - [Rashtra Bhushan](https://github.com/Rashtra03) - My first open-source contribution!
 - sanath waraikar
 - [Laksh Kumar Singh](https://github.com/lkghost327-afk)
+- [crypt-zubair](https://github.com/crypt-zubair) - My first open-source contribution.
